@@ -1,0 +1,60 @@
+.navbar-default a
+{
+    color:palevioletred !important;
+}
+.navbar-default
+{
+    box-shadow: 3px 3px 3px lightgray;
+}
+.my-img
+{
+    border:3px solid palevioletred;
+    box-shadow: 5px 5px 5px #888888;
+    margin-bottom:3%;
+}
+.my-title
+{
+    color:palevioletred;
+    font-weight:bold;
+}
+.my-title-ar
+{
+    text-align:right;
+    direction:rtl;
+}
+.my-title:hover
+{
+    text-decoration:none;
+    color:gray;
+}
+.my-row
+{
+    border-bottom:1px solid gray;
+    padding-bottom:1%;
+    margin-bottom:1%;
+}
+.my-cat
+{
+    color:gray;
+    display:inline;
+    padding-left:1%;
+    font-size:20px;
+}
+.content p 
+{
+ font-weight:bold;
+ text-align:justify;
+ color:darkslategray;
+}
+.content-ar p 
+{
+     text-align:right !important;
+}
+.menu-ar li
+{
+    float:right;
+}
+.col-single-ar
+{
+    direction:rtl !important;
+}
